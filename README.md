@@ -1,2 +1,10 @@
-# CraconCRM
-Cracon CRM is a comprehensive Customer Relationship Management platform that empowers businesses to efficiently manage their client interactions. It offers robust features such as contact management, sales automation, lead tracking, and detailed analytics. With customizable dashboards and seamless integration with popular application.
+## CraconCRM, by Srcbook
+
+This app was created using https://srcbook.com.
+Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+
+To run the devserver:
+```
+npm install
+npm run dev
+```
